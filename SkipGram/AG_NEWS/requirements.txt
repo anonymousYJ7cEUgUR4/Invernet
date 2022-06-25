@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+termcolor
+joblib
+nltk
+gensim
+sklearn
+tensorflow
+tensorflow_addons
+datasets
